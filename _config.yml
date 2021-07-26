@@ -1,17 +1,18 @@
 #title in header
-title: "Hi Folks."
+title: "Hei!"
 
 #main info
 #owner
-owner: "I am Adi Sakti Jrs"
-email: test@test.test
-info: "A student and web developer from Indonesia 🇮🇩"
+owner: "My name is Erik Peralta Løvaas"
+email: erikpl@protonmail.com
+info: "... a Computer Science student and hobby journalist from 🇳🇴"
 #description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+desc: ""
 
 #menu
 menu:
-  Works: /Works
+  # Projects: /Projects (create when relevant)
+  Resume: https://read.cv/erikpl
   About: /About
 
 #index/main page max show posts (in number)
@@ -19,27 +20,22 @@ max_post: 4
 
 # Colors use hex color without #
 # Theme color
-tcolor: 0FA0CE
+tcolor: EDD519
 
 # Define path to user css
 #(could be also located outside of theme)
 # Relative to source/ directory
-usercss: css/user.css
+# usercss: css/user.css
 
 # social profile at the footer/bottom
 footer: true
-placename: Earth
-placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
-stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+github: https://github.com/erikpl
+linkedin: https://linkedin.com/in/erikpl
 
 # Misc
 nanobar: /js/nanobar.min.js
-switch_light: ☀️
-switch_dark: 🌑
+# switch_light: ☀️
+# switch_dark: 🌑
 
 # favicon
 favicon: /images/favicon.png
@@ -52,3 +48,6 @@ article:
 # DISQUS comments (sign up to Disqus to get disqus_shortname)
 disqus_enabled: false
 disqus_shortname: https-adisaktijrs-github-io
+
+# Writing
+post_asset_folder: true
