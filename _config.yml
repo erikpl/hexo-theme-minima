@@ -5,7 +5,7 @@ title: "Hei!"
 #owner
 owner: "My name is Erik Peralta Løvaas"
 email: erikpl@protonmail.com
-info: "... a Computer Science student and hobby journalist from 🇳🇴"
+info: "... a Computer Science student and hobby journalist from  🇳🇴."
 #description
 desc: ""
 
@@ -13,7 +13,7 @@ desc: ""
 menu:
   # Projects: /Projects (create when relevant)
   Resume: https://read.cv/erikpl
-  About: /About
+  # About: /About
 
 #index/main page max show posts (in number)
 max_post: 4
