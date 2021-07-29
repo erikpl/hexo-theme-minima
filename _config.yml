@@ -50,4 +50,5 @@ disqus_enabled: false
 disqus_shortname: https-adisaktijrs-github-io
 
 # Writing
-post_asset_folder: true
+# Disable thumbnails
+post_asset_folder: false
